@@ -1,0 +1,4 @@
+Hola, esta es la linea 1 del archivo principal.
+#define ESTO_ES_UNA_MACRO 100
+#include "incluido.txt"
+Esta es la ultima linea del archivo principal.

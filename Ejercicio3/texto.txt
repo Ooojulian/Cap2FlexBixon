@@ -1,0 +1,5 @@
+El carro es un vehiculo.
+Un vehiculo puede andar por las vias.
+Las vias estan hechas para los vehiculos.
+Un vehiculo es un carro.
+
